@@ -1,11 +1,9 @@
-# presentation-template
+# QUEST 2015 Presentation
 
-This is just the template/boilerplate I've been using for constructing
-presentations.
-
-It requires `mklatex` and `make` to use effectively, along with a number of
-texlive-\* packages (in Fedora) for proper LaTeX rendering.
+Presentation by Ricky Elrod (@relrod) and Jimmy Carter (@kg4sgp).
 
 # License
 
-CC0/public domain unless otherwise noted in a file's header.
+(C) 2015 Ricky Elrod, Jimmy Carter.
+
+CC-BY-SA.
